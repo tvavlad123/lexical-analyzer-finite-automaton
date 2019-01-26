@@ -1,8 +1,7 @@
 int main() {
-	int a;
+	int aaaab;
 	int b;
 	int c;
-
 	cin >> a;
 	cin >> b;
 
@@ -12,6 +11,5 @@ int main() {
 		b = c;
 	}
 	cout << a;
-
 	return 0;
 }

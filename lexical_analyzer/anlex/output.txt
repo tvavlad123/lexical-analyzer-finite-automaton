@@ -1,6 +1,9 @@
-IDENTIFICATORI SI CONSTANTE 
+IDENTIFICATORI
 ID          |          Pozitie 
-0          |          1
-a          |          2
+a          |          1
+aaaab          |          2
 b          |          3
 c          |          4
+CONSTANTE
+ID          |          Pozitie 
+0           |           1
